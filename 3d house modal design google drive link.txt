@@ -1,0 +1,15 @@
+ steps for running the project:
+
+step 1: download the blender software
+step 2 : steup all the initial setup require 
+step 3 : if all the thing are ready 
+             then go to the given below google drive link
+            download it 
+             and extract the file a
+               and in blender app go to File---> Open---> select the file  and press enter
+                  your file is running on the blender
+
+         for more quaries contact me on id4ankit@gmail.com
+
+
+https://drive.google.com/file/d/1eO6WJpmKckQc8c8qDHk-MnPl_tr5di-m/view?usp=sharing
